@@ -1,4 +1,5 @@
 # Automatic removal of unnecessary files
+[![License](https://img.shields.io/badge/LICENSE-LGPL%20v3.0-green?style=flat-square&logo=Windows)](/LICENSE)
 ### Автоматическое удаление ненужных файлов
 Данная программа изначально создавалась для удаления лишних многопроходных файлов при рендере в Cinema 4D R19. 
 
